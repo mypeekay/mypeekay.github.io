@@ -2,8 +2,8 @@
 ---
 > # Catalogue:
 >> 1.----------------[index](https://mypeekay.github.io/index.html)<br>
->> 2.----------------[student.md](https://mypeekay.github.io/student1.md)<br>
->> 3.----------------[null](https://mypeekay.github.io/student.md)<br>
+>> 2.----------------[student.xml.md](https://mypeekay.github.io/student1.md)<br>
+>> 3.----------------[student.json.md](https://mypeekay.github.io/student.md)<br>
 >> 4.----------------[null](https://mypeekay.github.io)<br>
 >> 5.----------------[null](https://mypeekay.github.io)<br>
 >> 6.----------------[null](https://mypeekay.github.io)<br>
