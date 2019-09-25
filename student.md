@@ -6,7 +6,7 @@
     {"name":"马云1","address":"中国1","wellknownsaying":"心中无敌者，无敌于天下1"},
     {"name":"马云2","address":"中国2","wellknownsaying":"心中无敌者，无敌于天下2"},
     {"name":"马云3","address":"中国3","wellknownsaying":"心中无敌者，无敌于天下3"}
-    ]
+    ],
     [
     ]
     }
