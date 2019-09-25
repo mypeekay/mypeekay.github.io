@@ -1,12 +1,9 @@
-
-    {"data":
-    [
-    {"name":"扎克伯格","address":"美国","wellknownsaying":"当你有使命，它会让你更专注"},
-    {"name":"马云","address":"中国","wellknownsaying":"心中无敌者，无敌于天下"},
-    {"name":"马云1","address":"中国1","wellknownsaying":"心中无敌者，无敌于天下1"},
-    {"name":"马云2","address":"中国2","wellknownsaying":"心中无敌者，无敌于天下2"},
-    {"name":"马云3","address":"中国3","wellknownsaying":"心中无敌者，无敌于天下3"}
-    ],
-    [
-    ]
-    }
+{"data":
+[
+{"name":"扎克伯格","address":"美国","wellknownsaying":"当你有使命，它会让你更专注"},
+{"name":"马云","address":"中国","wellknownsaying":"心中无敌者，无敌于天下"},
+{"name":"马云1","address":"中国1","wellknownsaying":"心中无敌者，无敌于天下1"},
+{"name":"马云2","address":"中国2","wellknownsaying":"心中无敌者，无敌于天下2"},
+{"name":"马云3","address":"中国3","wellknownsaying":"心中无敌者，无敌于天下3"}
+]
+}
