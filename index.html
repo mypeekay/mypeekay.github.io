@@ -1,3 +1,30 @@
-<script>
+/*<script>
    location.href='https://service-luedb9sc-1255693066.gz.apigw.tencentcs.com/release/onedrive5'
-</script>
+</script>*/
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script type="text/javascript">
+			function jump() {
+				if(document.getElementById('num').value==1){
+					location.href = 'https://service-kfgahbqa-1255693066.gz.apigw.tencentcs.com/release/peekay_onedrive/'
+					return
+				}
+				if(document.getElementById('num').value==2){
+					location.href = 'https://service-luedb9sc-1255693066.gz.apigw.tencentcs.com/release/onedrive5'
+					return
+				}
+				alert("输入错误，只能输入1和2")
+			}
+		</script>
+	</head>
+	<body>
+		进入共享网盘1输入1，进入作业盘，输入2，然后点击提交,一般来说输入2<br />
+		<form method="post">
+			<input type="number" name="content" id="num" />
+			<input type="submit" value="提交" onclick="jump()" />
+		</form>
+	</body>
+</html>
