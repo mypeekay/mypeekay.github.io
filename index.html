@@ -2,24 +2,41 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title></title>
-		<script type="text/javascript">
+		<title>PeeKay网盘目录</title>
+		<!-- <script type="text/javascript">
 			function jump() {
-				if(document.getElementById('num').value==1){
+				if (document.getElementById('num').value == 1) {
 					location.href = 'https://service-kfgahbqa-1255693066.gz.apigw.tencentcs.com/release/peekay_onedrive/'
 					return
 				}
-				if(document.getElementById('num').value==2){
+				if (document.getElementById('num').value == 2) {
 					location.href = 'https://service-luedb9sc-1255693066.gz.apigw.tencentcs.com/release/onedrive5'
 					return
 				}
 				alert("输入错误，只能输入1和2")
 			}
-		</script>
+		</script> -->
+		<style>
+			p{
+				font-size: 18px;
+				font-weight: 500;
+			}
+			a{
+				font-size: 24px;
+				height: 36px;
+				color: #000;
+				font-weight: 600;
+			}
+			a:hover{
+				color: #009688;
+			}
+		</style>
 	</head>
-	<body>
-	 输入网盘序号（只有1或2）<br />然后点击提交<br />一般来说输入2<br /><br />
-			<input type="number" name="content" id="num" />
-			<input type="submit" value="提交" onclick="jump()" />
+	<body align="center">
+		<h1>PeeKay网盘目录</h1>
+		<h3>进那个就点那个</h3>
+		<a href="https://service-kfgahbqa-1255693066.gz.apigw.tencentcs.com/release/peekay_onedrive/">网盘1</a>
+		<p></p>
+		<a href="https://service-luedb9sc-1255693066.gz.apigw.tencentcs.com/release/onedrive5">网盘2</a>
 	</body>
 </html>
